@@ -58,3 +58,8 @@ Identificar qué factores del comportamiento del cliente están más fuertemente
 - Practicar el uso de **coeficientes de correlación** (Pearson, Spearman) para variables numéricas y **V de Cramér / Chi-cuadrado** para variables categóricas, entendiendo cuándo aplicar cada uno.
 - Aprender a estructurar hallazgos de negocio siguiendo un formato riguroso: evidencia visual → evidencia numérica → interpretación no causal → limitaciones → implicación de negocio.
 - Reconocer las limitaciones de un análisis transversal (sin estacionalidad) y la importancia de proponer próximos pasos con mayor poder explicativo, como clustering (K-Means), regresión lineal múltiple o pruebas A/B para acercarse a relaciones causales.
+
+## Contacto
+
+- LinkedIn: (https://www.linkedin.com/in/emma-solorzano-hernandez-jauregui-200301345/)
+- Perfil de Tableau Public: https://public.tableau.com/views/S11TripleTen/OverviewEjecutivo?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
