@@ -62,4 +62,3 @@ Identificar qué factores del comportamiento del cliente están más fuertemente
 ## Contacto
 
 - LinkedIn: (https://www.linkedin.com/in/emma-solorzano-hernandez-jauregui-200301345/)
-- Perfil de Tableau Public: https://public.tableau.com/views/S11TripleTen/OverviewEjecutivo?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
