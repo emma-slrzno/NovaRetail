@@ -1,4 +1,5 @@
-# Proyecto NovaRetail+ — Análisis de factores de comportamiento y retención
+# Proyecto NovaRetail
+Análisis de factores de comportamiento y retención
 
 ## Objetivo
 
