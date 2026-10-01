@@ -110,7 +110,7 @@ Dado que el análisis es correlacional, estas recomendaciones deben validarse (i
 - Estructurar hallazgos de negocio con rigor: evidencia visual → evidencia numérica → interpretación no causal → limitaciones → implicación de negocio.
 - Reconocer las limitaciones de un análisis transversal y proponer próximos pasos.
 
-### 10. Contacto
+### Contacto
 
 - 💼 LinkedIn: [Emma Solórzano Hernández Jáuregui](https://www.linkedin.com/in/emma-solorzano-hernandez-jauregui-200301345/)
 - 📊 Tableau Public: [Ver perfil](https://public.tableau.com/app/profile/emma.solorzano7415/vizzes)
@@ -221,7 +221,7 @@ Since the analysis is correlational, these recommendations should be validated (
 - Structuring business findings rigorously: visual evidence → numerical evidence → non-causal interpretation → limitations → business implication.
 - Recognizing the limitations of a cross-sectional analysis and proposing next steps.
 
-### 10. Contact
+###  Contact
 
 - 💼 LinkedIn: [Emma Solórzano Hernández Jáuregui](https://www.linkedin.com/in/emma-solorzano-hernandez-jauregui-200301345/)
 - 📊 Tableau Public: [View profile](https://public.tableau.com/app/profile/emma.solorzano7415/vizzes)
